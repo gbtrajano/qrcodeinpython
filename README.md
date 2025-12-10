@@ -1,12 +1,14 @@
 # Meu gerador de QRCODE - Gabriel Trajano
 
+## Esse código é capaz de criar QRcodes através da URL fornecida no terminal.
+
 ### Bibliotecas Requiridas
 
 - qrcode
 
 ### Como instalar meu projeto
 
-Primeiro copie a URL do projeto indo em "<>Código", na aba HTTPS copie a URL
+Primeiro copie a URL do projeto indo em "<>Código", na aba HTTPS copie a URL.
 
 ```bash
 https://github.com/gbtrajano/qrcodeinpython.git
