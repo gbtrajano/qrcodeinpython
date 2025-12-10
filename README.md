@@ -15,7 +15,7 @@ https://github.com/gbtrajano/qrcodeinpython.git
 E em seguida em seu terminal utilize o seguinte comando:
 
 ```bash
-git clone (URL COPIADA)
+git clone https://github.com/gbtrajano/qrcodeinpython.git
 ```
 
 ### Instalação de Dependências
